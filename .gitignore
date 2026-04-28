@@ -1,0 +1,5 @@
+*.gstmp
+.nextflow/
+.nextflow.log*
+work/
+results/
